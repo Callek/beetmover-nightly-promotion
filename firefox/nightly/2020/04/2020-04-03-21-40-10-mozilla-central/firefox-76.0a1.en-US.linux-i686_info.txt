@@ -1,0 +1,1 @@
+9bbc1e62fda5f1d28d4d3d22fbd5e3fb5a2dbd74b4f595fe4cca74b86d0069af4c2a1a9e9e6e95e79a5a29c431692bf610c624dd474ccc719b453791d35fe689  firefox/nightly/2020/04/2020-04-03-21-40-10-mozilla-central/firefox-76.0a1.en-US.linux-i686_info.txt

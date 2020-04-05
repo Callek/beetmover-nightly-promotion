@@ -1,0 +1,1 @@
+aadd4cb4ad3f12b12c310ed6bb2122c7a45d10db6b266e66fad8775b48879d4a5f67bc36734d856eeec6961bb7a0b1f53ae418a9a2cca9fe04fff3a862e85894  firefox/candidates/74.0.1-candidates/build1/partner-repacks/mozillaonline/cumulon/v1/win64/zh-CN/Firefox Setup 74.0.1.exe.as

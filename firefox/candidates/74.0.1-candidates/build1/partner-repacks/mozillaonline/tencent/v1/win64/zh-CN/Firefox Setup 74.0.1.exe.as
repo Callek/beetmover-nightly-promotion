@@ -1,0 +1,1 @@
+e06d4f5e529abf22ce8a6c610905f58ed644721d5016202d690095c86d3ce6d9d848a9597d7809e96e017568717c6c5cc89136852c71227ccee86c685a068a92  firefox/candidates/74.0.1-candidates/build1/partner-repacks/mozillaonline/tencent/v1/win64/zh-CN/Firefox Setup 74.0.1.exe.as

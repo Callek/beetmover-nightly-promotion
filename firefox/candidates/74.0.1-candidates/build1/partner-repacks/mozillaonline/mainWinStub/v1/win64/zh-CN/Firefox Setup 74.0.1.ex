@@ -1,0 +1,1 @@
+dc44384ba850e68860d98899e934b77d40345bbdedce76571c854102931b54671a5c10811c34a5832fd426ee9a1c76aa276f056d8cba0e72e2c3abb50b05293b  firefox/candidates/74.0.1-candidates/build1/partner-repacks/mozillaonline/mainWinStub/v1/win64/zh-CN/Firefox Setup 74.0.1.ex

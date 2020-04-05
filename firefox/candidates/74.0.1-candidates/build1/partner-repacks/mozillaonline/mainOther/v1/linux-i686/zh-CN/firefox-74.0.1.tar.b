@@ -1,0 +1,1 @@
+bc3ce78e5245ac7df59638290969e3a87ed77fb1cc09f93c39f20a47f7dd21ef63eca5c518ae30afd7d4e8ee48163bece70ffdf700cd63fd244fa0471ccfa229  firefox/candidates/74.0.1-candidates/build1/partner-repacks/mozillaonline/mainOther/v1/linux-i686/zh-CN/firefox-74.0.1.tar.b

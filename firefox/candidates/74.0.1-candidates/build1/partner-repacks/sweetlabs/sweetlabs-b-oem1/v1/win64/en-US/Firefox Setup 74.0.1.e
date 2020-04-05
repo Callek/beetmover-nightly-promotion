@@ -1,0 +1,1 @@
+6d8bbcec18f15021416889d10e405e43683c0866fa96d771dd08ac698e0fa11a5df52e2b189a5276265f36fdbea158733fb5e4f7e64d3585f9d29be82bb5c47d  firefox/candidates/74.0.1-candidates/build1/partner-repacks/sweetlabs/sweetlabs-b-oem1/v1/win64/en-US/Firefox Setup 74.0.1.e
